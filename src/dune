@@ -1,0 +1,5 @@
+(executable
+  (name minitop)
+  (libraries compiler-libs.toplevel compiler-libs.bytecomp )
+  (modes byte)
+ )
